@@ -1,0 +1,29 @@
+app:
+  name: RouteFinder
+  version: 1.0.0
+
+routing:
+  max_distance_km: 100
+  min_distance_km: 10
+  distance_tolerance: 0.15
+  max_overlap_percent: 20
+  waypoint_count: 5
+  alternatives: 3
+  max_retry_attempts: 3
+  graph_radius_factor: 0.4
+  reach_divisor: 3.5
+  visited_penalty: 10.0
+
+elevation:
+  api_url: "https://api.open-elevation.com/api/v1/lookup"
+  batch_size: 100
+  max_sample_points: 200
+  timeout_seconds: 30
+
+geocoding:
+  user_agent: "RouteFinder/1.0"
+  min_request_interval_seconds: 1.0
+
+cache:
+  graph_dir: ".tmp/graphs"
+  graph_ttl_days: 30
