@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>AarhusNordAarhus</name>
+    <link href="https://ridewithgps.com/routes/30424641">
+      <text>AarhusNordAarhus</text>
+    </link>
+    <time>2019-07-01T17:58:37Z</time>
+  </metadata>
+  <rte>
+    <name>AarhusNordAarhus</name>
+    <rtept lat="56.15216" lon="10.19759">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.15103" lon="10.2">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Frederiks Allé</cmt>
+    </rtept>
+    <rtept lat="56.14817" lon="10.19659">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Jægergårdsgade</cmt>
+    </rtept>
+    <rtept lat="56.14824" lon="10.20939">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Spanien</cmt>
+    </rtept>
+    <rtept lat="56.15348" lon="10.21259">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Åboulevarden</cmt>
+    </rtept>
+    <rtept lat="56.15352" lon="10.21254">
+      <name>Left</name>
+      <cmt>Drej skarpt til venstre ind på Havnegade</cmt>
+    </rtept>
+    <rtept lat="56.15351" lon="10.21252">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre</cmt>
+    </rtept>
+    <rtept lat="56.15445" lon="10.21141">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Mindebrogade</cmt>
+    </rtept>
+    <rtept lat="56.16232" lon="10.21517">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Molsgade</cmt>
+    </rtept>
+    <rtept lat="56.16228" lon="10.21567">
+      <name>Left</name>
+      <cmt>Drej lidt til venstre</cmt>
+    </rtept>
+    <rtept lat="56.16516" lon="10.21777">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Risskovstien</cmt>
+    </rtept>
+    <rtept lat="56.18941" lon="10.23845">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Nordre Strandvej</cmt>
+    </rtept>
+    <rtept lat="56.18972" lon="10.238619">
+      <name>Right</name>
+      <cmt>Drej lidt til højre</cmt>
+    </rtept>
+    <rtept lat="56.20264" lon="10.26867">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Brovej</cmt>
+    </rtept>
+    <rtept lat="56.23206" lon="10.26598">
+      <name>Straight</name>
+      <cmt>I rundskørslen, ta udkørsel 1 ind på Mejlbyvej</cmt>
+    </rtept>
+    <rtept lat="56.28964" lon="10.21806">
+      <name>Generic</name>
+      <cmt>Delmål 1</cmt>
+    </rtept>
+    <rtept lat="56.28964" lon="10.21806">
+      <name>Straight</name>
+      <cmt>Fortsæt på Mejlbyvej</cmt>
+    </rtept>
+    <rtept lat="56.32601" lon="10.20046">
+      <name>Generic</name>
+      <cmt>Delmål 1</cmt>
+    </rtept>
+    <rtept lat="56.32601" lon="10.20046">
+      <name>Straight</name>
+      <cmt>Fortsæt på Mejlbyvej</cmt>
+    </rtept>
+    <rtept lat="56.33322" lon="10.19452">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Erantisvej</cmt>
+    </rtept>
+    <rtept lat="56.33308" lon="10.1915">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Sønderskovvej</cmt>
+    </rtept>
+    <rtept lat="56.33528" lon="10.19036">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Hyacintvej</cmt>
+    </rtept>
+    <rtept lat="56.32811" lon="10.109489">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Bavnehøjvej</cmt>
+    </rtept>
+    <rtept lat="56.32747" lon="10.10745">
+      <name>Right</name>
+      <cmt>Drej lidt til højre</cmt>
+    </rtept>
+    <rtept lat="56.32746" lon="10.10718">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Sellingvej</cmt>
+    </rtept>
+    <rtept lat="56.31116" lon="10.09882">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.31097" lon="10.09864">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på B.S. Ingemanns Vej</cmt>
+    </rtept>
+    <rtept lat="56.30978" lon="10.0986">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre ind på B.S. Ingemanns Vej</cmt>
+    </rtept>
+    <rtept lat="56.30969" lon="10.09856">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på H.C. Andersens Vej</cmt>
+    </rtept>
+    <rtept lat="56.30953" lon="10.09957">
+      <name>Right</name>
+      <cmt>Drej til højre ind på H.C. Andersens Vej</cmt>
+    </rtept>
+    <rtept lat="56.30904" lon="10.09937">
+      <name>Left</name>
+      <cmt>Drej lidt til venstre</cmt>
+    </rtept>
+    <rtept lat="56.30846" lon="10.09925">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Skjoldborgs Vej</cmt>
+    </rtept>
+    <rtept lat="56.30671" lon="10.09784">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.30664" lon="10.09808">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.30421" lon="10.097429">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.29715" lon="10.11012">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.28163" lon="10.11942">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Sandballevej</cmt>
+    </rtept>
+    <rtept lat="56.26854" lon="10.1034">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Algade</cmt>
+    </rtept>
+    <rtept lat="56.2676" lon="10.09695">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Rønbækvej</cmt>
+    </rtept>
+    <rtept lat="56.24037" lon="10.08464">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Århusvej, 505</cmt>
+    </rtept>
+    <rtept lat="56.24028" lon="10.08482">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.24004" lon="10.08458">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre</cmt>
+    </rtept>
+    <rtept lat="56.23955" lon="10.08423">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Holmelundsvej</cmt>
+    </rtept>
+    <rtept lat="56.23863" lon="10.08607">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre</cmt>
+    </rtept>
+    <rtept lat="56.23863" lon="10.085839">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Kvottrupvej</cmt>
+    </rtept>
+    <rtept lat="56.2375" lon="10.08496">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Neptunvej</cmt>
+    </rtept>
+    <rtept lat="56.23738" lon="10.08508">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Kvottrupvej</cmt>
+    </rtept>
+    <rtept lat="56.23278" lon="10.08121">
+      <name>Straight</name>
+      <cmt>I rundskørslen, ta udkørsel 3 ind på Brushøjvej</cmt>
+    </rtept>
+    <rtept lat="56.21638" lon="10.08203">
+      <name>Left</name>
+      <cmt>Drej lidt til venstre ind på Kvottrupvej</cmt>
+    </rtept>
+    <rtept lat="56.19288" lon="10.11076">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Bysmedevej</cmt>
+    </rtept>
+    <rtept lat="56.19259" lon="10.112819">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Bysmedevej</cmt>
+    </rtept>
+    <rtept lat="56.19194" lon="10.11335">
+      <name>Right</name>
+      <cmt>Drej lidt til højre ind på Bysmedevej</cmt>
+    </rtept>
+    <rtept lat="56.18722" lon="10.10603">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Langkærvej</cmt>
+    </rtept>
+    <rtept lat="56.18748" lon="10.10659">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Tuestensvej</cmt>
+    </rtept>
+    <rtept lat="56.18787" lon="10.10722">
+      <name>Left</name>
+      <cmt>Drej skarpt til venstre ind på Tilst Skolevej</cmt>
+    </rtept>
+    <rtept lat="56.18096" lon="10.09942">
+      <name>Straight</name>
+      <cmt>Fortsæt på Anelystvej</cmt>
+    </rtept>
+    <rtept lat="56.17989" lon="10.09819">
+      <name>Straight</name>
+      <cmt>I rundskørslen, ta udkørsel 2 ind på Anelystvej</cmt>
+    </rtept>
+    <rtept lat="56.16494" lon="10.09476">
+      <name>Straight</name>
+      <cmt>I rundskørslen, ta udkørsel 2 ind på Helenelyst</cmt>
+    </rtept>
+    <rtept lat="56.16447" lon="10.09479">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.16447" lon="10.09513">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre</cmt>
+    </rtept>
+    <rtept lat="56.16071" lon="10.09455">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.15904" lon="10.09793">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.15904" lon="10.0981">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.159" lon="10.0982">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre ind på Mariedalsvej</cmt>
+    </rtept>
+    <rtept lat="56.15631" lon="10.10057">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Truevej</cmt>
+    </rtept>
+    <rtept lat="56.15317" lon="10.10135">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Hovedgaden</cmt>
+    </rtept>
+    <rtept lat="56.15332" lon="10.10404">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Søvej</cmt>
+    </rtept>
+    <rtept lat="56.15158" lon="10.10454">
+      <name>Straight</name>
+      <cmt>Fortsæt</cmt>
+    </rtept>
+    <rtept lat="56.15046" lon="10.10464">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.13999" lon="10.15321">
+      <name>Straight</name>
+      <cmt>Fortsæt på Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14342" lon="10.17349">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14416" lon="10.17341">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14491" lon="10.17498">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.14611" lon="10.17627">
+      <name>Right</name>
+      <cmt>Drej lidt til højre</cmt>
+    </rtept>
+    <rtept lat="56.1512" lon="10.18672">
+      <name>Straight</name>
+      <cmt>Fortsæt på P. Hiort-Lorenzens Vej</cmt>
+    </rtept>
+    <rtept lat="56.15233" lon="10.18866">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Søren Frichs Vej</cmt>
+    </rtept>
+    <rtept lat="56.15215" lon="10.18958">
+      <name>Left</name>
+      <cmt>Drej til venstre ind på Søren Frichs Vej</cmt>
+    </rtept>
+    <rtept lat="56.1548" lon="10.1937">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Skovgaardsgade</cmt>
+    </rtept>
+    <rtept lat="56.15264" lon="10.19852">
+      <name>Straight</name>
+      <cmt>Fortsæt</cmt>
+    </rtept>
+    <rtept lat="56.15236" lon="10.19932">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.15231" lon="10.19927">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.15227" lon="10.19942">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.15223" lon="10.19938">
+      <name>Right</name>
+      <cmt>Drej til højre ind på Thomas Jensens Allé</cmt>
+    </rtept>
+    <rtept lat="56.15224" lon="10.19923">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.15234" lon="10.19779">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

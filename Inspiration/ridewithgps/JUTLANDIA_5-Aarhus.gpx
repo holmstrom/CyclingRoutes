@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>JUTLANDIA_5-Aarhus</name>
+    <link href="https://ridewithgps.com/routes/43960901">
+      <text>JUTLANDIA_5-Aarhus</text>
+    </link>
+    <time>2023-08-06T23:16:45Z</time>
+  </metadata>
+  <rte>
+    <name>JUTLANDIA_5-Aarhus</name>
+    <rtept lat="56.08677" lon="10.22295">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.08675" lon="10.22297">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.08666" lon="10.2227">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.08656" lon="10.2223">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.08619" lon="10.22259">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Moesgård Allé</cmt>
+    </rtept>
+    <rtept lat="56.08665" lon="10.22457">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Bispelundvej</cmt>
+    </rtept>
+    <rtept lat="56.08849" lon="10.23013">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Skovmøllevej</cmt>
+    </rtept>
+    <rtept lat="56.0926" lon="10.23809">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony na Skovmøllevej</cmt>
+    </rtept>
+    <rtept lat="56.09346" lon="10.24243">
+      <name>Sharp Left</name>
+      <cmt>Skręć ostro w lewo na Skovmøllevej</cmt>
+    </rtept>
+    <rtept lat="56.09345" lon="10.24227">
+      <name>Uturn</name>
+      <cmt>Zawróć na Skovmøllevej</cmt>
+    </rtept>
+    <rtept lat="56.09346" lon="10.24243">
+      <name>Slight Right</name>
+      <cmt>Skręć delikatnie w prawo</cmt>
+    </rtept>
+    <rtept lat="56.09346" lon="10.24253">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.10652" lon="10.23442">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.11428" lon="10.22415">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.11884" lon="10.22562">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.12662" lon="10.21346">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Strandvejen</cmt>
+    </rtept>
+    <rtept lat="56.13869" lon="10.20708">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.13993" lon="10.20702">
+      <name>Slight Right</name>
+      <cmt>Skręć delikatnie w prawo na Strandvejen</cmt>
+    </rtept>
+    <rtept lat="56.14524" lon="10.20876">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Svendborgrampen</cmt>
+    </rtept>
+    <rtept lat="56.14642" lon="10.21078">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.14634" lon="10.21102">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Sydhavnsgade</cmt>
+    </rtept>
+    <rtept lat="56.15238" lon="10.21366">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Hack Kampmanns Plads</cmt>
+    </rtept>
+    <rtept lat="56.1528" lon="10.21414">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.15884" lon="10.21411">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.15877" lon="10.21449">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.15903" lon="10.21464">
+      <name>Slight Left</name>
+      <cmt>Trzymaj się lewej strony</cmt>
+    </rtept>
+    <rtept lat="56.15954" lon="10.21494">
+      <name>Sharp Right</name>
+      <cmt>Skręć ostro w prawo</cmt>
+    </rtept>
+    <rtept lat="56.15912" lon="10.21582">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.15988" lon="10.21683">
+      <name>Slight Left</name>
+      <cmt>Skręć delikatnie w lewo na Inge Lehmanns Gade</cmt>
+    </rtept>
+    <rtept lat="56.16019" lon="10.21607">
+      <name>Sharp Right</name>
+      <cmt>Skręć ostro w prawo</cmt>
+    </rtept>
+    <rtept lat="56.16255" lon="10.2205">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.1641" lon="10.22336">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.16687" lon="10.22813">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.16606" lon="10.2266">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Esther Aggebos Gade</cmt>
+    </rtept>
+    <rtept lat="56.16667" lon="10.22581">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Dagmar Petersens Gade</cmt>
+    </rtept>
+    <rtept lat="56.16414" lon="10.2211">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Kystpromenaden</cmt>
+    </rtept>
+    <rtept lat="56.16424" lon="10.22036">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Kystpromenaden</cmt>
+    </rtept>
+    <rtept lat="56.16302" lon="10.2181">
+      <name>Sharp Right</name>
+      <cmt>Skręć ostro w prawo</cmt>
+    </rtept>
+    <rtept lat="56.16298" lon="10.218">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Hjortholmsvej</cmt>
+    </rtept>
+    <rtept lat="56.16371" lon="10.21657">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.16375" lon="10.21639">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.16337" lon="10.21612">
+      <name>Slight Right</name>
+      <cmt>Skręć delikatnie w prawo na Skovvejen</cmt>
+    </rtept>
+    <rtept lat="56.1631" lon="10.21588">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.16233" lon="10.21514">
+      <name>Slight Right</name>
+      <cmt>Skręć delikatnie w prawo na Mejlgade</cmt>
+    </rtept>
+    <rtept lat="56.15815" lon="10.21203">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Graven</cmt>
+    </rtept>
+    <rtept lat="56.15845" lon="10.20267">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Grønnegade</cmt>
+    </rtept>
+    <rtept lat="56.15758" lon="10.20291">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Vestergade</cmt>
+    </rtept>
+    <rtept lat="56.15691" lon="10.19719">
+      <name>Slight Left</name>
+      <cmt>Skręć delikatnie w lewo na Vestergade</cmt>
+    </rtept>
+    <rtept lat="56.15638" lon="10.19587">
+      <name>Slight Left</name>
+      <cmt>Skręć delikatnie w lewo na Carl Blochs Gade</cmt>
+    </rtept>
+    <rtept lat="56.15224" lon="10.18953">
+      <name>Straight</name>
+      <cmt>Kontynuuj na Thomas Koppels Gade</cmt>
+    </rtept>
+    <rtept lat="56.14612" lon="10.17627">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.1449" lon="10.17505">
+      <name>Slight Left</name>
+      <cmt>Trzymaj się lewej strony</cmt>
+    </rtept>
+    <rtept lat="56.14479" lon="10.17473">
+      <name>Slight Left</name>
+      <cmt>Skręć delikatnie w lewo na Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14417" lon="10.17341">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Fiskerhusbroen</cmt>
+    </rtept>
+    <rtept lat="56.14343" lon="10.1735">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14127" lon="10.1446">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.13381" lon="10.13683">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.13381" lon="10.13683">
+      <name>Sharp Right</name>
+      <cmt>Skręć ostro w prawo na Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.13378" lon="10.13684">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.13444" lon="10.13198">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.13266" lon="10.13051">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.12845" lon="10.13153">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.12759" lon="10.13329">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.1266" lon="10.13503">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.12652" lon="10.13491">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Ormslevvej</cmt>
+    </rtept>
+    <rtept lat="56.12137" lon="10.14588">
+      <name>Slight Left</name>
+      <cmt>Trzymaj się lewej strony</cmt>
+    </rtept>
+    <rtept lat="56.12078" lon="10.14629">
+      <name>Sharp Left</name>
+      <cmt>Skręć ostro w lewo</cmt>
+    </rtept>
+    <rtept lat="56.12082" lon="10.14637">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Ravnsbjergvej</cmt>
+    </rtept>
+    <rtept lat="56.12137" lon="10.14588">
+      <name>Sharp Left</name>
+      <cmt>Skręć ostro w lewo na Ravnsbjergvej</cmt>
+    </rtept>
+    <rtept lat="56.12048" lon="10.1464">
+      <name>Straight</name>
+      <cmt>Kontynuuj na Ringvej Syd, O2</cmt>
+    </rtept>
+    <rtept lat="56.11622" lon="10.14969">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.11412" lon="10.15279">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Søndervangs Allé</cmt>
+    </rtept>
+    <rtept lat="56.10848" lon="10.14827">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Gunnar Clausens Vej</cmt>
+    </rtept>
+    <rtept lat="56.10799" lon="10.15031">
+      <name>Sharp Right</name>
+      <cmt>Skręć ostro w prawo</cmt>
+    </rtept>
+    <rtept lat="56.10274" lon="10.14267">
+      <name>Slight Right</name>
+      <cmt>Trzymaj się prawej strony</cmt>
+    </rtept>
+    <rtept lat="56.09151" lon="10.13258">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.09162" lon="10.13229">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.09122" lon="10.13177">
+      <name>Sharp Left</name>
+      <cmt>Skręć ostro w lewo</cmt>
+    </rtept>
+    <rtept lat="56.0909" lon="10.13352">
+      <name>Sharp Right</name>
+      <cmt>Skręć ostro w prawo</cmt>
+    </rtept>
+    <rtept lat="56.08414" lon="10.12321">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.08418" lon="10.12304">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.08405" lon="10.12295">
+      <name>Right</name>
+      <cmt>Skręć w prawo</cmt>
+    </rtept>
+    <rtept lat="56.07902" lon="10.11844">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Tingskoven</cmt>
+    </rtept>
+    <rtept lat="56.07727" lon="10.11491">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Tingskoven</cmt>
+    </rtept>
+    <rtept lat="56.0524" lon="10.08462">
+      <name>Left</name>
+      <cmt>Skręć w lewo</cmt>
+    </rtept>
+    <rtept lat="56.04633" lon="10.08234">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Solbjerg Hovedgade</cmt>
+    </rtept>
+    <rtept lat="56.04625" lon="10.08224">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Solbjerg Hovedgade</cmt>
+    </rtept>
+    <rtept lat="56.04554" lon="10.0822">
+      <name>Straight</name>
+      <cmt>Zjedź z ronda 1 zjazdem na Solbjerg Hovedgade</cmt>
+    </rtept>
+    <rtept lat="56.03036" lon="10.06389">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Onstedvej</cmt>
+    </rtept>
+    <rtept lat="56.02123" lon="10.07402">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Bøgeskovvej</cmt>
+    </rtept>
+    <rtept lat="56.02198" lon="10.08413">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Rasborgvej</cmt>
+    </rtept>
+    <rtept lat="56.01372" lon="10.09916">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Drammelstrupvej</cmt>
+    </rtept>
+    <rtept lat="55.99862" lon="10.11048">
+      <name>Slight Left</name>
+      <cmt>Trzymaj się lewej strony na Drammelstrupvej</cmt>
+    </rtept>
+    <rtept lat="55.99638" lon="10.11472">
+      <name>Straight</name>
+      <cmt>Kontynuuj na Bakkegaardsvej</cmt>
+    </rtept>
+    <rtept lat="55.98271" lon="10.1135">
+      <name>Straight</name>
+      <cmt>Zjedź z ronda 2 zjazdem na Snærildvej</cmt>
+    </rtept>
+    <rtept lat="55.97224" lon="10.13592">
+      <name>Slight Right</name>
+      <cmt>Skręć delikatnie w prawo na Snærildvej</cmt>
+    </rtept>
+    <rtept lat="55.97401" lon="10.14997">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Rådhusgade, 451</cmt>
+    </rtept>
+    <rtept lat="55.97258" lon="10.14969">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Tornøegade</cmt>
+    </rtept>
+    <rtept lat="55.97654" lon="10.16358">
+      <name>Straight</name>
+      <cmt>Zjedź z ronda 1 zjazdem na Rørthvej</cmt>
+    </rtept>
+    <rtept lat="56.02969" lon="10.25783">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Ajstrup Strandvej</cmt>
+    </rtept>
+    <rtept lat="56.04184" lon="10.26351">
+      <name>Slight Left</name>
+      <cmt>Skręć delikatnie w lewo na Ajstrup Strandvej</cmt>
+    </rtept>
+    <rtept lat="56.03948" lon="10.23728">
+      <name>Straight</name>
+      <cmt>Zjedź z ronda 1 zjazdem na Elmosevej</cmt>
+    </rtept>
+    <rtept lat="56.05968" lon="10.2426">
+      <name>Right</name>
+      <cmt>Skręć w prawo na Bispelundvej</cmt>
+    </rtept>
+    <rtept lat="56.07992" lon="10.23397">
+      <name>Slight Left</name>
+      <cmt>Trzymaj się lewej strony na Bispelundvej</cmt>
+    </rtept>
+    <rtept lat="56.08665" lon="10.22457">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Moesgård Allé</cmt>
+    </rtept>
+    <rtept lat="56.08618" lon="10.22254">
+      <name>Left</name>
+      <cmt>Skręć w lewo na Moesgård Allé</cmt>
+    </rtept>
+    <rtept lat="56.08616" lon="10.22255">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

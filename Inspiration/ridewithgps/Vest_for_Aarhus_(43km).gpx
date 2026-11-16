@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>Vest for Aarhus (43km)</name>
+    <link href="https://ridewithgps.com/routes/27489674">
+      <text>Vest for Aarhus (43km)</text>
+    </link>
+    <time>2018-05-13T01:32:28Z</time>
+  </metadata>
+  <rte>
+    <name>Vest for Aarhus (43km)</name>
+    <rtept lat="56.16065" lon="10.18272">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.15632" lon="10.1826">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Silkeborgvej</cmt>
+    </rtept>
+    <rtept lat="56.15318" lon="10.1374">
+      <name>Straight</name>
+      <cmt>Foretag en U-vending</cmt>
+    </rtept>
+    <rtept lat="56.15346" lon="10.143649">
+      <name>Straight</name>
+      <cmt>Foretag en U-vending ved Viby Ringvej/O2</cmt>
+    </rtept>
+    <rtept lat="56.15309" lon="10.09019">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Byleddet</cmt>
+    </rtept>
+    <rtept lat="56.14479" lon="10.08904">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Søskovvej</cmt>
+    </rtept>
+    <rtept lat="56.14041" lon="10.08963">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Storskovvej</cmt>
+    </rtept>
+    <rtept lat="56.1377" lon="10.07707">
+      <name>Right</name>
+      <cmt>Drej til højre, og bliv på Storskovvej</cmt>
+    </rtept>
+    <rtept lat="56.1381" lon="10.07695">
+      <name>Left</name>
+      <cmt>Drej til venstre ved den 1. tværvej for at blive på Storskovvej</cmt>
+    </rtept>
+    <rtept lat="56.13056" lon="10.04102">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Holmbækvej</cmt>
+    </rtept>
+    <rtept lat="56.1234" lon="10.043">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Åbovej</cmt>
+    </rtept>
+    <rtept lat="56.12222" lon="10.033149">
+      <name>Straight</name>
+      <cmt>Kør ind i rundkørslen</cmt>
+    </rtept>
+    <rtept lat="56.12213" lon="10.03283">
+      <name>Straight</name>
+      <cmt>Kør ud af rundkørslen på Åbovej</cmt>
+    </rtept>
+    <rtept lat="56.12353" lon="10.01688">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Brydehøjvej</cmt>
+    </rtept>
+    <rtept lat="56.10917" lon="10.02688">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Pindsmøllevej</cmt>
+    </rtept>
+    <rtept lat="56.11082" lon="10.01184">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Fusvadvej</cmt>
+    </rtept>
+    <rtept lat="56.11537" lon="9.98605">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Stillingvej/Rute 511</cmt>
+    </rtept>
+    <rtept lat="56.1158" lon="9.986319">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Stillingvej</cmt>
+    </rtept>
+    <rtept lat="56.11934" lon="9.98096">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.11942" lon="9.98803">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.13902" lon="9.99979">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Damkærvej</cmt>
+    </rtept>
+    <rtept lat="56.14214" lon="10.00071">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Gammel Stillingvej</cmt>
+    </rtept>
+    <rtept lat="56.15175" lon="10.005229">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Framlev Korsvej/Rute 195</cmt>
+    </rtept>
+    <rtept lat="56.15177" lon="10.00667">
+      <name>Straight</name>
+      <cmt>Tag tredje frakørsel ad Stillingvej/Rute 511 i rundkørslen</cmt>
+    </rtept>
+    <rtept lat="56.15404" lon="10.00679">
+      <name>Straight</name>
+      <cmt>Tag anden frakørsel i rundkørslen</cmt>
+    </rtept>
+    <rtept lat="56.15474" lon="10.00665">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Stillingvej/Rute 511</cmt>
+    </rtept>
+    <rtept lat="56.15764" lon="10.006449">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Labing Landevej</cmt>
+    </rtept>
+    <rtept lat="56.16728" lon="10.01158">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Labing Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.16842" lon="10.0286">
+      <name>Straight</name>
+      <cmt>Flet sammen med Lyngbygårdsvej</cmt>
+    </rtept>
+    <rtept lat="56.16936" lon="10.04178">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Lyngbygårdsvej</cmt>
+    </rtept>
+    <rtept lat="56.1749" lon="10.044689">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Tingvad</cmt>
+    </rtept>
+    <rtept lat="56.18567" lon="10.01713">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Borumvej</cmt>
+    </rtept>
+    <rtept lat="56.18829" lon="10.04016">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Yderupvej</cmt>
+    </rtept>
+    <rtept lat="56.18236" lon="10.05702">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Lyngbygårdsvej</cmt>
+    </rtept>
+    <rtept lat="56.18217" lon="10.06901">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Bavnehøjvej</cmt>
+    </rtept>
+    <rtept lat="56.17822" lon="10.08665">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Opkærsvej</cmt>
+    </rtept>
+    <rtept lat="56.1765" lon="10.08858">
+      <name>Straight</name>
+      <cmt>Fortsæt ad True Byvej</cmt>
+    </rtept>
+    <rtept lat="56.1762" lon="10.09083">
+      <name>Straight</name>
+      <cmt>Fortsæt lige ud ad Trueholmvej</cmt>
+    </rtept>
+    <rtept lat="56.17777" lon="10.09665">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Anelystvej</cmt>
+    </rtept>
+    <rtept lat="56.17285" lon="10.09422">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Skjoldhøjvej</cmt>
+    </rtept>
+    <rtept lat="56.17525" lon="10.11932">
+      <name>Straight</name>
+      <cmt>I rundkørslen skal du fortsætte ligeud til Jernaldervej</cmt>
+    </rtept>
+    <rtept lat="56.16941" lon="10.15362">
+      <name>Left</name>
+      <cmt>Drej til venstre ved den 1. tværvej, og fortsæt ad Åby Ringvej/O2</cmt>
+    </rtept>
+    <rtept lat="56.17101" lon="10.15651">
+      <name>Right</name>
+      <cmt>Drej til højre ved den 1. tværvej, og fortsæt ad Viborgvej</cmt>
+    </rtept>
+    <rtept lat="56.16111" lon="10.18223">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

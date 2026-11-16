@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>Aarhus V - Nr. Vissing- Aarhus V</name>
+    <link href="https://ridewithgps.com/routes/27056868">
+      <text>Aarhus V - Nr. Vissing- Aarhus V</text>
+    </link>
+    <time>2018-03-20T18:41:30Z</time>
+  </metadata>
+  <rte>
+    <name>Aarhus V - Nr. Vissing- Aarhus V</name>
+    <rtept lat="56.17539" lon="10.13031">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.17506" lon="10.129739">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.17405" lon="10.13164">
+      <name>Right</name>
+      <cmt>Drej skarpt til højre</cmt>
+    </rtept>
+    <rtept lat="56.17527" lon="10.096229">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg True-Holmstrupgårdvej</cmt>
+    </rtept>
+    <rtept lat="56.1756" lon="10.09064">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Langhøjvej</cmt>
+    </rtept>
+    <rtept lat="56.17552" lon="10.090609">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg True Byvej</cmt>
+    </rtept>
+    <rtept lat="56.17554" lon="10.088999">
+      <name>Right</name>
+      <cmt>Drej til højre, og bliv på True Byvej</cmt>
+    </rtept>
+    <rtept lat="56.17569" lon="10.088819">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Espenhøjvej</cmt>
+    </rtept>
+    <rtept lat="56.17388" lon="10.08562">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Selkærvej</cmt>
+    </rtept>
+    <rtept lat="56.16757" lon="10.05948">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Glamhøjvej</cmt>
+    </rtept>
+    <rtept lat="56.16936" lon="10.04178">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Lyngbygårdsvej</cmt>
+    </rtept>
+    <rtept lat="56.1749" lon="10.044689">
+      <name>Left</name>
+      <cmt>Lidt til venstre, og følg Tingvad</cmt>
+    </rtept>
+    <rtept lat="56.18567" lon="10.01713">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Borumvej</cmt>
+    </rtept>
+    <rtept lat="56.18542" lon="9.97973">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Langelinie</cmt>
+    </rtept>
+    <rtept lat="56.18388" lon="9.9704">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Engvej</cmt>
+    </rtept>
+    <rtept lat="56.17711" lon="9.98112">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Tandrupvej</cmt>
+    </rtept>
+    <rtept lat="56.16582" lon="9.99102">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Hørslevvej</cmt>
+    </rtept>
+    <rtept lat="56.16471" lon="9.99069">
+      <name>Right</name>
+      <cmt>Drej til højre, og bliv på Hørslevvej</cmt>
+    </rtept>
+    <rtept lat="56.159" lon="9.954789">
+      <name>Right</name>
+      <cmt>Drej til højre, og bliv på Hørslevvej</cmt>
+    </rtept>
+    <rtept lat="56.15966" lon="9.95207">
+      <name>Left</name>
+      <cmt>Hold til venstre</cmt>
+    </rtept>
+    <rtept lat="56.15953" lon="9.9495">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.16257" lon="9.94887">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.16157" lon="9.93545">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Smedeskovvej</cmt>
+    </rtept>
+    <rtept lat="56.15914" lon="9.90358">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Skjørringvej</cmt>
+    </rtept>
+    <rtept lat="56.1595" lon="9.90072">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Låsbyvej</cmt>
+    </rtept>
+    <rtept lat="56.16291" lon="9.85715">
+      <name>Left</name>
+      <cmt>Lidt til venstre, og følg Galtenvej</cmt>
+    </rtept>
+    <rtept lat="56.16489" lon="9.84013">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Østerskovvej</cmt>
+    </rtept>
+    <rtept lat="56.14856" lon="9.84021">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Gl Århusvej/Rute 195</cmt>
+    </rtept>
+    <rtept lat="56.14857" lon="9.83929">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Ersholtvej</cmt>
+    </rtept>
+    <rtept lat="56.13704" lon="9.85123">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Vidkærvej</cmt>
+    </rtept>
+    <rtept lat="56.12388" lon="9.84751">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Låsbyvej/Rute 457</cmt>
+    </rtept>
+    <rtept lat="56.1242" lon="9.84577">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Låsbyvej</cmt>
+    </rtept>
+    <rtept lat="56.12466" lon="9.84554">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Skolegade</cmt>
+    </rtept>
+    <rtept lat="56.12466" lon="9.84554">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Låsbyvej</cmt>
+    </rtept>
+    <rtept lat="56.1242" lon="9.84577">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Låsbyvej/Rute 457</cmt>
+    </rtept>
+    <rtept lat="56.11004" lon="9.88425">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Vengevej</cmt>
+    </rtept>
+    <rtept lat="56.11925" lon="9.91571">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Stjærvej</cmt>
+    </rtept>
+    <rtept lat="56.11725" lon="9.93511">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Vesterbro</cmt>
+    </rtept>
+    <rtept lat="56.11711" lon="9.95337">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Østerbro</cmt>
+    </rtept>
+    <rtept lat="56.11699" lon="9.9559">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.11942" lon="9.98803">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.12542" lon="9.99048">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Tarskovvænget</cmt>
+    </rtept>
+    <rtept lat="56.12525" lon="9.99286">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Tarskovvej</cmt>
+    </rtept>
+    <rtept lat="56.12773" lon="10.01124">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Harlev Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.12732" lon="10.01413">
+      <name>Straight</name>
+      <cmt>Fortsæt lige ud ad Harlevholmvej/Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.13085" lon="10.04078">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Holmbækvej/Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.13056" lon="10.04102">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Storskovvej/Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.14043" lon="10.08992">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.14157" lon="10.08964">
+      <name>Right</name>
+      <cmt>Hold til højre, og bliv på Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.14386" lon="10.10304">
+      <name>Left</name>
+      <cmt>Hold til venstre, og bliv på Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.1338" lon="10.13684">
+      <name>Left</name>
+      <cmt>Drej til venstre mod Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.13597" lon="10.14087">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.1401" lon="10.14444">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Rute 4</cmt>
+    </rtept>
+    <rtept lat="56.14126" lon="10.14459">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14472" lon="10.13532">
+      <name>Right</name>
+      <cmt>Drej til højre mod Sivsangervej</cmt>
+    </rtept>
+    <rtept lat="56.14789" lon="10.13673">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Sivsangervej</cmt>
+    </rtept>
+    <rtept lat="56.14788" lon="10.13688">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Louisevej</cmt>
+    </rtept>
+    <rtept lat="56.15089" lon="10.1349">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Charlottevej</cmt>
+    </rtept>
+    <rtept lat="56.15088" lon="10.13578">
+      <name>Left</name>
+      <cmt>Drej til venstre mod Tinesvej</cmt>
+    </rtept>
+    <rtept lat="56.15323" lon="10.13453">
+      <name>Right</name>
+      <cmt>Drej til højre mod Tinesvej</cmt>
+    </rtept>
+    <rtept lat="56.15329" lon="10.13537">
+      <name>Left</name>
+      <cmt>Drej til venstre mod Tinesvej</cmt>
+    </rtept>
+    <rtept lat="56.15335" lon="10.13536">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Tinesvej</cmt>
+    </rtept>
+    <rtept lat="56.15408" lon="10.1366">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Tinesvej</cmt>
+    </rtept>
+    <rtept lat="56.15553" lon="10.13651">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Gudrunsvej</cmt>
+    </rtept>
+    <rtept lat="56.15801" lon="10.1413">
+      <name>Left</name>
+      <cmt>Drej til venstre, og bliv på Gudrunsvej</cmt>
+    </rtept>
+    <rtept lat="56.16109" lon="10.14053">
+      <name>Right</name>
+      <cmt>Drej til højre, og bliv på Gudrunsvej</cmt>
+    </rtept>
+    <rtept lat="56.16265" lon="10.14094">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Lenesvej</cmt>
+    </rtept>
+    <rtept lat="56.16557" lon="10.14087">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Janesvej</cmt>
+    </rtept>
+    <rtept lat="56.16567" lon="10.13939">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.16904" lon="10.14028">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.17026" lon="10.13364">
+      <name>Right</name>
+      <cmt>Drej til højre mod Bronzealdervej</cmt>
+    </rtept>
+    <rtept lat="56.17133" lon="10.13334">
+      <name>Right</name>
+      <cmt>Drej til højre mod Bronzealdervej</cmt>
+    </rtept>
+    <rtept lat="56.1714" lon="10.13381">
+      <name>Left</name>
+      <cmt>Lidt til venstre, og følg Bronzealdervej</cmt>
+    </rtept>
+    <rtept lat="56.17205" lon="10.13547">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Bronzealdertoften</cmt>
+    </rtept>
+    <rtept lat="56.17266" lon="10.13369">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.17385" lon="10.13344">
+      <name>Left</name>
+      <cmt>Drej til venstre</cmt>
+    </rtept>
+    <rtept lat="56.17506" lon="10.12974">
+      <name>Right</name>
+      <cmt>Drej til højre</cmt>
+    </rtept>
+    <rtept lat="56.17537" lon="10.13026">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

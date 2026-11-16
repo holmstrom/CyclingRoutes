@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>Aarhus C - Jeksen - Stilling - Mårslet - Højbjerg - Aarhus C</name>
+    <link href="https://ridewithgps.com/routes/27257529">
+      <text>Aarhus C - Jeksen - Stilling - Mårslet - Højbjerg - Aarhus C</text>
+    </link>
+    <time>2018-04-17T10:21:03Z</time>
+  </metadata>
+  <rte>
+    <name>Aarhus C - Jeksen - Stilling - Mårslet - Højbjerg - Aarhus C</name>
+    <rtept lat="56.14299" lon="10.18746">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.13955" lon="10.1815">
+      <name>Right</name>
+      <cmt>Drej til højre ved den 1. tværvej, og fortsæt ad Marselis Blvd.</cmt>
+    </rtept>
+    <rtept lat="56.14005" lon="10.17395">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Åhavevej</cmt>
+    </rtept>
+    <rtept lat="56.14479" lon="10.08904">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Søskovvej</cmt>
+    </rtept>
+    <rtept lat="56.139" lon="10.08133">
+      <name>Right</name>
+      <cmt>Hold til højre for at blive på Storskovvej</cmt>
+    </rtept>
+    <rtept lat="56.13056" lon="10.04102">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Holmbækvej</cmt>
+    </rtept>
+    <rtept lat="56.12222" lon="10.033149">
+      <name>Straight</name>
+      <cmt>Tag første frakørsel i rundkørslen, og bliv på Åbovej</cmt>
+    </rtept>
+    <rtept lat="56.12353" lon="10.01688">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Brydehøjvej</cmt>
+    </rtept>
+    <rtept lat="56.12732" lon="10.01413">
+      <name>Left</name>
+      <cmt>Brydehøjvej svinger mod venstre og bliver til Harlev Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.12773" lon="10.01124">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Tarskovvej</cmt>
+    </rtept>
+    <rtept lat="56.05953" lon="9.983">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Gramvej</cmt>
+    </rtept>
+    <rtept lat="56.0591" lon="9.98357">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Søvejen</cmt>
+    </rtept>
+    <rtept lat="56.05422" lon="10.02358">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Halrisvej</cmt>
+    </rtept>
+    <rtept lat="56.04693" lon="10.03755">
+      <name>Left</name>
+      <cmt>Halrisvej svinger mod venstre og bliver til Fastrupvej</cmt>
+    </rtept>
+    <rtept lat="56.03692" lon="10.07959">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Solbjerg Hovedgade</cmt>
+    </rtept>
+    <rtept lat="56.0464" lon="10.08155">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Gammel Horsensvej/Rute 433</cmt>
+    </rtept>
+    <rtept lat="56.07868" lon="10.112539">
+      <name>Straight</name>
+      <cmt>Foretag en U-vending ved Tingskoven</cmt>
+    </rtept>
+    <rtept lat="56.07906" lon="10.11846">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Tingskovvej</cmt>
+    </rtept>
+    <rtept lat="56.06685" lon="10.1337">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Testrupvej</cmt>
+    </rtept>
+    <rtept lat="56.06828" lon="10.15914">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Obstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.06713" lon="10.16121">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Hørretvej</cmt>
+    </rtept>
+    <rtept lat="56.09351" lon="10.20945">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Oddervej/Rute 451</cmt>
+    </rtept>
+    <rtept lat="56.11646" lon="10.20712">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Rosenvangs Allé</cmt>
+    </rtept>
+    <rtept lat="56.12631" lon="10.18455">
+      <name>Straight</name>
+      <cmt>Tag anden frakørsel ad Jyllands Allé i rundkørslen</cmt>
+    </rtept>
+    <rtept lat="56.13977" lon="10.19044">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Marselis Blvd.</cmt>
+    </rtept>
+    <rtept lat="56.13954" lon="10.18185">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Skanderborgvej</cmt>
+    </rtept>
+    <rtept lat="56.14383" lon="10.18927">
+      <name>Left</name>
+      <cmt>Drej til venstre, og følg Søndre Ringgade/O1</cmt>
+    </rtept>
+    <rtept lat="56.14451" lon="10.18852">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg Trepkasgade</cmt>
+    </rtept>
+    <rtept lat="56.14503" lon="10.189539">
+      <name>Right</name>
+      <cmt>Drej til højre ved den 1. tværvej, og fortsæt ad Max Müllers Gade</cmt>
+    </rtept>
+    <rtept lat="56.14453" lon="10.19028">
+      <name>Right</name>
+      <cmt>Drej til højre, og følg De Mezas Vej</cmt>
+    </rtept>
+    <rtept lat="56.14403" lon="10.18931">
+      <name>Straight</name>
+      <cmt>Fortsæt ad Skanderborgvej</cmt>
+    </rtept>
+    <rtept lat="56.14299" lon="10.18746">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

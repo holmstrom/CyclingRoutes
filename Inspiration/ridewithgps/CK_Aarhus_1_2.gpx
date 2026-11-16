@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>CK Aarhus 1/2</name>
+    <link href="https://ridewithgps.com/routes/6902626">
+      <text>CK Aarhus 1/2</text>
+    </link>
+    <time>2015-01-31T15:16:35Z</time>
+  </metadata>
+  <rte>
+    <name>CK Aarhus 1/2</name>
+    <rtept lat="56.13246" lon="10.190009">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.13261" lon="10.18973">
+      <name>Straight</name>
+      <cmt>Continue onto Vilhelm Becks Vej</cmt>
+    </rtept>
+    <rtept lat="56.13035" lon="10.17394">
+      <name>Straight</name>
+      <cmt>Continue onto Grundtvigsvej</cmt>
+    </rtept>
+    <rtept lat="56.12819" lon="10.16376">
+      <name>Right</name>
+      <cmt>Turn right onto Viby Torv</cmt>
+    </rtept>
+    <rtept lat="56.12864" lon="10.16255">
+      <name>Straight</name>
+      <cmt>Continue onto Viby Ringvej, 180, O2</cmt>
+    </rtept>
+    <rtept lat="56.13417" lon="10.156799">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="56.13706" lon="10.15607">
+      <name>Left</name>
+      <cmt>Turn left onto Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.1348" lon="10.146039">
+      <name>Left</name>
+      <cmt>Turn left onto Damtoften</cmt>
+    </rtept>
+    <rtept lat="56.13456" lon="10.146079">
+      <name>Right</name>
+      <cmt>Turn right onto Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.13945" lon="10.11918">
+      <name>Left</name>
+      <cmt>Turn slight left onto Bispevej</cmt>
+    </rtept>
+    <rtept lat="56.13943" lon="10.118359">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="56.14015" lon="10.11507">
+      <name>Straight</name>
+      <cmt>Continue onto Hammelbanen</cmt>
+    </rtept>
+    <rtept lat="56.1423" lon="10.1041">
+      <name>Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="56.14388" lon="10.103579">
+      <name>Left</name>
+      <cmt>Turn sharp left onto Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14177" lon="10.090159">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="56.14153" lon="10.08965">
+      <name>Left</name>
+      <cmt>Turn slight left onto Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14041" lon="10.089809">
+      <name>Right</name>
+      <cmt>Turn right onto Søholmvej</cmt>
+    </rtept>
+    <rtept lat="56.1404" lon="10.08965">
+      <name>Straight</name>
+      <cmt>Continue onto Storskovvej</cmt>
+    </rtept>
+    <rtept lat="56.13054" lon="10.040989">
+      <name>Right</name>
+      <cmt>Turn right onto Holmbækvej</cmt>
+    </rtept>
+    <rtept lat="56.1361" lon="10.04007">
+      <name>Left</name>
+      <cmt>Turn left onto Skibbyvej</cmt>
+    </rtept>
+    <rtept lat="56.13843" lon="10.02219">
+      <name>Straight</name>
+      <cmt>Continue onto Højbyvej</cmt>
+    </rtept>
+    <rtept lat="56.13317" lon="10.01017">
+      <name>Right</name>
+      <cmt>Turn slight right onto Harlev Kirkevej</cmt>
+    </rtept>
+    <rtept lat="56.13695" lon="9.99949">
+      <name>Straight</name>
+      <cmt>Continue onto Ketting Parkvej</cmt>
+    </rtept>
+    <rtept lat="56.13707" lon="9.998439">
+      <name>Left</name>
+      <cmt>Turn left onto Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.12491" lon="9.992639">
+      <name>Right</name>
+      <cmt>Turn sharp right onto Stillingvej, 511</cmt>
+    </rtept>
+    <rtept lat="56.11928" lon="9.9886">
+      <name>Right</name>
+      <cmt>Turn right onto Tåstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.11699" lon="9.955889">
+      <name>Right</name>
+      <cmt>Turn right onto Østerbro</cmt>
+    </rtept>
+    <rtept lat="56.1171" lon="9.953359">
+      <name>Straight</name>
+      <cmt>Continue onto Vesterbro</cmt>
+    </rtept>
+    <rtept lat="56.11703" lon="9.951549">
+      <name>Left</name>
+      <cmt>Turn left onto Stjær Bakker</cmt>
+    </rtept>
+    <rtept lat="56.10703" lon="9.948589">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="56.10703" lon="9.948589">
+      <name>Left</name>
+      <cmt>Turn sharp left onto Stjær Bakker</cmt>
+    </rtept>
+    <rtept lat="56.09686" lon="9.94177">
+      <name>Left</name>
+      <cmt>Turn left onto Dalvej</cmt>
+    </rtept>
+    <rtept lat="56.09166" lon="9.968939">
+      <name>Right</name>
+      <cmt>Turn sharp right onto Præstevejen</cmt>
+    </rtept>
+    <rtept lat="56.07525" lon="9.93889">
+      <name>Left</name>
+      <cmt>Turn left onto Foerlev Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.07112" lon="9.93876">
+      <name>Right</name>
+      <cmt>Turn right onto Foerlevvej</cmt>
+    </rtept>
+    <rtept lat="56.07053" lon="9.922739">
+      <name>Straight</name>
+      <cmt>Continue onto Mesingvej</cmt>
+    </rtept>
+    <rtept lat="56.06419" lon="9.899679">
+      <name>Right</name>
+      <cmt>Turn right onto Låsbyvej, 457</cmt>
+    </rtept>
+    <rtept lat="56.06512" lon="9.898879">
+      <name>Left</name>
+      <cmt>Turn left onto Illerupvej</cmt>
+    </rtept>
+    <rtept lat="56.05647" lon="9.864229">
+      <name>Left</name>
+      <cmt>Turn sharp left onto Skanderborgvej, 445</cmt>
+    </rtept>
+    <rtept lat="56.05562" lon="9.865369">
+      <name>Right</name>
+      <cmt>Turn sharp right onto Emborgvej</cmt>
+    </rtept>
+    <rtept lat="56.05149" lon="9.84761">
+      <name>Left</name>
+      <cmt>Turn left onto Alkenvej</cmt>
+    </rtept>
+    <rtept lat="56.04603" lon="9.85193">
+      <name>Straight</name>
+      <cmt>Continue onto Vædebrovej</cmt>
+    </rtept>
+    <rtept lat="56.02515" lon="9.8386">
+      <name>Right</name>
+      <cmt>Turn sharp right onto Vroldvej, 409</cmt>
+    </rtept>
+    <rtept lat="56.02405" lon="9.8328">
+      <name>Left</name>
+      <cmt>Turn sharp left onto Tåningvej</cmt>
+    </rtept>
+    <rtept lat="56.0123" lon="9.84157">
+      <name>Left</name>
+      <cmt>Turn left onto Horndrupvej</cmt>
+    </rtept>
+    <rtept lat="56.007" lon="9.88345">
+      <name>Straight</name>
+      <cmt>Continue onto Hylkevej</cmt>
+    </rtept>
+    <rtept lat="56.00077" lon="9.918469">
+      <name>Left</name>
+      <cmt>Turn left onto Hylke Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.00139" lon="9.946919">
+      <name>Left</name>
+      <cmt>Turn left onto Ringklostervej</cmt>
+    </rtept>
+    <rtept lat="56.01405" lon="9.986989">
+      <name>Right</name>
+      <cmt>Turn right onto Oddervej, 445</cmt>
+    </rtept>
+    <rtept lat="56.01344" lon="9.98791">
+      <name>Left</name>
+      <cmt>Turn left onto Bjergvej</cmt>
+    </rtept>
+    <rtept lat="56.01728" lon="10.010409">
+      <name>Left</name>
+      <cmt>Turn slight left onto Hvolbækvej</cmt>
+    </rtept>
+    <rtept lat="56.02774" lon="10.032799">
+      <name>Left</name>
+      <cmt>Turn left onto Gadebakken</cmt>
+    </rtept>
+    <rtept lat="56.03146" lon="10.0342">
+      <name>Right</name>
+      <cmt>Turn right onto Skoletoften</cmt>
+    </rtept>
+    <rtept lat="56.03201" lon="10.040269">
+      <name>Right</name>
+      <cmt>Turn right onto Virringvej</cmt>
+    </rtept>
+    <rtept lat="56.03025" lon="10.062189">
+      <name>Left</name>
+      <cmt>Turn left onto Gammel Horsensvej, 433</cmt>
+    </rtept>
+    <rtept lat="56.03063" lon="10.062969">
+      <name>Right</name>
+      <cmt>Turn right onto Solbjerg Hovedgade</cmt>
+    </rtept>
+    <rtept lat="56.04644" lon="10.081639">
+      <name>Right</name>
+      <cmt>Turn right onto Gammel Horsensvej, 433</cmt>
+    </rtept>
+    <rtept lat="56.05241" lon="10.084299">
+      <name>Right</name>
+      <cmt>Turn right onto Gammel Horsensvej</cmt>
+    </rtept>
+    <rtept lat="56.06781" lon="10.09869">
+      <name>Straight</name>
+      <cmt>Continue onto Tingskoven</cmt>
+    </rtept>
+    <rtept lat="56.07905" lon="10.118429">
+      <name>Straight</name>
+      <cmt>Continue onto Sønderbro</cmt>
+    </rtept>
+    <rtept lat="56.08177" lon="10.121139">
+      <name>Right</name>
+      <cmt>Turn right onto Trankær Mosevej</cmt>
+    </rtept>
+    <rtept lat="56.08222" lon="10.127299">
+      <name>Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="56.08281" lon="10.128839">
+      <name>Right</name>
+      <cmt>Turn right onto Tingskov Alle</cmt>
+    </rtept>
+    <rtept lat="56.08362" lon="10.14035">
+      <name>Left</name>
+      <cmt>Turn left onto Østerby Alle</cmt>
+    </rtept>
+    <rtept lat="56.09353" lon="10.144419">
+      <name>Right</name>
+      <cmt>Turn right onto Nørrevænget</cmt>
+    </rtept>
+    <rtept lat="56.09239" lon="10.15155">
+      <name>Right</name>
+      <cmt>Turn right onto Ellemosevej</cmt>
+    </rtept>
+    <rtept lat="56.0921" lon="10.15318">
+      <name>Left</name>
+      <cmt>Turn slight left onto Bjødstrupvej</cmt>
+    </rtept>
+    <rtept lat="56.11291" lon="10.169329">
+      <name>Right</name>
+      <cmt>Turn right onto Holme Byvej</cmt>
+    </rtept>
+    <rtept lat="56.11707" lon="10.173019">
+      <name>Straight</name>
+      <cmt>Continue onto Holme Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.12257" lon="10.172129">
+      <name>Right</name>
+      <cmt>Turn right onto Jyllands Alle</cmt>
+    </rtept>
+    <rtept lat="56.12637" lon="10.183919">
+      <name>Right</name>
+      <cmt>Turn right onto Fredensvang Runddel</cmt>
+    </rtept>
+    <rtept lat="56.12682" lon="10.1845">
+      <name>Right</name>
+      <cmt>Turn sharp right onto Jyllands Alle</cmt>
+    </rtept>
+    <rtept lat="56.13232" lon="10.18948">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

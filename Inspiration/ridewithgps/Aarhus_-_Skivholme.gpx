@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>Aarhus - Skivholme</name>
+    <link href="https://ridewithgps.com/routes/28743912">
+      <text>Aarhus - Skivholme</text>
+    </link>
+    <time>2018-10-07T22:56:49Z</time>
+  </metadata>
+  <rte>
+    <name>Aarhus - Skivholme</name>
+    <rtept lat="56.15304" lon="10.1818">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="56.15051" lon="10.17843">
+      <name>Right</name>
+      <cmt>Slight right</cmt>
+    </rtept>
+    <rtept lat="56.14417" lon="10.1734">
+      <name>Left</name>
+      <cmt>Turn left onto Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14344" lon="10.17351">
+      <name>Right</name>
+      <cmt>Turn right to stay on Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14126" lon="10.14459">
+      <name>Straight</name>
+      <cmt>Continue onto Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.1474" lon="10.12211">
+      <name>Right</name>
+      <cmt>Slight right to stay on Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14951" lon="10.089499">
+      <name>Left</name>
+      <cmt>Turn left onto Byleddet</cmt>
+    </rtept>
+    <rtept lat="56.14941" lon="10.0894">
+      <name>Right</name>
+      <cmt>Turn right onto Ørvadsvej</cmt>
+    </rtept>
+    <rtept lat="56.15164" lon="10.07354">
+      <name>Right</name>
+      <cmt>Keep right to stay on Ørvadsvej</cmt>
+    </rtept>
+    <rtept lat="56.15198" lon="10.07318">
+      <name>Right</name>
+      <cmt>Turn right at Silkeborgvej/Route 195</cmt>
+    </rtept>
+    <rtept lat="56.15277" lon="10.07454">
+      <name>Straight</name>
+      <cmt>Take the pedestrian tunnel</cmt>
+    </rtept>
+    <rtept lat="56.15291" lon="10.07509">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="56.16006" lon="10.07866">
+      <name>Straight</name>
+      <cmt>Take the pedestrian tunnel</cmt>
+    </rtept>
+    <rtept lat="56.17388" lon="10.08562">
+      <name>Right</name>
+      <cmt>Turn right to stay on Espenhøjvej</cmt>
+    </rtept>
+    <rtept lat="56.17569" lon="10.08882">
+      <name>Left</name>
+      <cmt>Turn left onto True Byvej</cmt>
+    </rtept>
+    <rtept lat="56.1764" lon="10.08888">
+      <name>Left</name>
+      <cmt>Turn left to stay on True Byvej</cmt>
+    </rtept>
+    <rtept lat="56.1765" lon="10.08858">
+      <name>Straight</name>
+      <cmt>Continue onto Opkærsvej</cmt>
+    </rtept>
+    <rtept lat="56.17822" lon="10.08665">
+      <name>Left</name>
+      <cmt>Slight left onto Bavnehøjvej</cmt>
+    </rtept>
+    <rtept lat="56.18217" lon="10.06901">
+      <name>Straight</name>
+      <cmt>Continue onto Lyngbygårdsvej</cmt>
+    </rtept>
+    <rtept lat="56.18236" lon="10.05702">
+      <name>Straight</name>
+      <cmt>Continue onto Yderupvej</cmt>
+    </rtept>
+    <rtept lat="56.18829" lon="10.04016">
+      <name>Left</name>
+      <cmt>Turn left onto Borumvej</cmt>
+    </rtept>
+    <rtept lat="56.18558" lon="10.01636">
+      <name>Right</name>
+      <cmt>Turn right onto Tingvad</cmt>
+    </rtept>
+    <rtept lat="56.18673" lon="10.01547">
+      <name>Left</name>
+      <cmt>Turn left onto Langelinie</cmt>
+    </rtept>
+    <rtept lat="56.18756" lon="10.0104">
+      <name>Right</name>
+      <cmt>Slight right onto Borum Byvej</cmt>
+    </rtept>
+    <rtept lat="56.19116" lon="10.01138">
+      <name>Right</name>
+      <cmt>Slight right onto Borum Landevej</cmt>
+    </rtept>
+    <rtept lat="56.19146" lon="10.01145">
+      <name>Left</name>
+      <cmt>Turn left onto Skivholmevej</cmt>
+    </rtept>
+    <rtept lat="56.19525" lon="9.997159">
+      <name>Right</name>
+      <cmt>Turn right to stay on Skivholmevej</cmt>
+    </rtept>
+    <rtept lat="56.19764" lon="9.98612">
+      <name>Left</name>
+      <cmt>Turn left to stay on Skivholmevej</cmt>
+    </rtept>
+    <rtept lat="56.2016" lon="9.96776">
+      <name>Straight</name>
+      <cmt>Continue onto Skyttehusvej</cmt>
+    </rtept>
+    <rtept lat="56.20585" lon="9.94814">
+      <name>Right</name>
+      <cmt>Turn right to stay on Skyttehusvej</cmt>
+    </rtept>
+    <rtept lat="56.21327" lon="9.92937">
+      <name>Left</name>
+      <cmt>Turn left onto Fuglsangvej</cmt>
+    </rtept>
+    <rtept lat="56.21031" lon="9.92752">
+      <name>Left</name>
+      <cmt>Turn left onto Saksen</cmt>
+    </rtept>
+    <rtept lat="56.2027" lon="9.92807">
+      <name>Straight</name>
+      <cmt>Continue onto Lyngballevej</cmt>
+    </rtept>
+    <rtept lat="56.19436" lon="9.92041">
+      <name>Left</name>
+      <cmt>Turn left onto Voldbyvej</cmt>
+    </rtept>
+    <rtept lat="56.18284" lon="9.932969">
+      <name>Right</name>
+      <cmt>Slight right to stay on Voldbyvej</cmt>
+    </rtept>
+    <rtept lat="56.18262" lon="9.93294">
+      <name>Right</name>
+      <cmt>Turn right onto Rosenvej</cmt>
+    </rtept>
+    <rtept lat="56.18232" lon="9.93196">
+      <name>Straight</name>
+      <cmt>Continue onto Langelinie</cmt>
+    </rtept>
+    <rtept lat="56.18063" lon="9.93202">
+      <name>Right</name>
+      <cmt>Turn right onto Wedelslundvej</cmt>
+    </rtept>
+    <rtept lat="56.17621" lon="9.91999">
+      <name>Left</name>
+      <cmt>Turn left to stay on Wedelslundvej</cmt>
+    </rtept>
+    <rtept lat="56.16163" lon="9.93286">
+      <name>Left</name>
+      <cmt>Turn left onto Smedeskovvej</cmt>
+    </rtept>
+    <rtept lat="56.15782" lon="9.943479">
+      <name>Left</name>
+      <cmt>Turn left onto Hørslevvej</cmt>
+    </rtept>
+    <rtept lat="56.16021" lon="9.97676">
+      <name>Right</name>
+      <cmt>Turn right onto Frøkjærvej</cmt>
+    </rtept>
+    <rtept lat="56.15067" lon="9.97472">
+      <name>Left</name>
+      <cmt>Turn left onto Silkeborgvej/Route 195</cmt>
+    </rtept>
+    <rtept lat="56.15105" lon="9.98525">
+      <name>Right</name>
+      <cmt>Turn right toward Lilleringvej</cmt>
+    </rtept>
+    <rtept lat="56.14787" lon="9.98563">
+      <name>Left</name>
+      <cmt>Turn left onto Lilleringvej</cmt>
+    </rtept>
+    <rtept lat="56.148" lon="9.9867">
+      <name>Right</name>
+      <cmt>Turn right onto Rødlundvej</cmt>
+    </rtept>
+    <rtept lat="56.14281" lon="9.9906">
+      <name>Straight</name>
+      <cmt>Continue onto Ketting Parkvej</cmt>
+    </rtept>
+    <rtept lat="56.13691" lon="9.99947">
+      <name>Straight</name>
+      <cmt>Continue onto Harlev Kirkevej</cmt>
+    </rtept>
+    <rtept lat="56.13318" lon="10.01017">
+      <name>Right</name>
+      <cmt>Turn right to stay on Harlev Kirkevej</cmt>
+    </rtept>
+    <rtept lat="56.1327" lon="10.00996">
+      <name>Straight</name>
+      <cmt>Continue onto Harlev Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.12773" lon="10.01124">
+      <name>Left</name>
+      <cmt>Turn left to stay on Harlev Møllevej</cmt>
+    </rtept>
+    <rtept lat="56.12732" lon="10.01413">
+      <name>Straight</name>
+      <cmt>Continue straight onto Harlevholmvej/Route 4</cmt>
+    </rtept>
+    <rtept lat="56.13085" lon="10.04078">
+      <name>Right</name>
+      <cmt>Turn right onto Holmbækvej/Route 4</cmt>
+    </rtept>
+    <rtept lat="56.13056" lon="10.04102">
+      <name>Left</name>
+      <cmt>Turn left onto Storskovvej/Route 4</cmt>
+    </rtept>
+    <rtept lat="56.1381" lon="10.07695">
+      <name>Right</name>
+      <cmt>Turn right onto Storskovvej</cmt>
+    </rtept>
+    <rtept lat="56.1377" lon="10.07707">
+      <name>Left</name>
+      <cmt>Turn left onto Storskovvej/Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14043" lon="10.08992">
+      <name>Left</name>
+      <cmt>Turn left to stay on Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14766" lon="10.08868">
+      <name>Right</name>
+      <cmt>Turn right onto Byleddet</cmt>
+    </rtept>
+    <rtept lat="56.14951" lon="10.089499">
+      <name>Right</name>
+      <cmt>Turn right onto Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.15083" lon="10.09768">
+      <name>Left</name>
+      <cmt>Keep left to stay on Brabrandstien</cmt>
+    </rtept>
+    <rtept lat="56.14126" lon="10.14459">
+      <name>Straight</name>
+      <cmt>Continue straight onto Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14" lon="10.15323">
+      <name>Left</name>
+      <cmt>Slight left to stay on Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14344" lon="10.17351">
+      <name>Left</name>
+      <cmt>Turn left to stay on Route 4</cmt>
+    </rtept>
+    <rtept lat="56.14417" lon="10.1734">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="56.15051" lon="10.17843">
+      <name>Straight</name>
+      <cmt>Continue onto Åbrinkvej</cmt>
+    </rtept>
+    <rtept lat="56.15332" lon="10.18206">
+      <name>Right</name>
+      <cmt>Turn right onto Søren Frichs Vej/Route 4</cmt>
+    </rtept>
+    <rtept lat="56.15321" lon="10.182689">
+      <name>Right</name>
+      <cmt>Turn right onto Søndre Ringgade/O1</cmt>
+    </rtept>
+    <rtept lat="56.15011" lon="10.18337">
+      <name>Right</name>
+      <cmt>Slight right</cmt>
+    </rtept>
+    <rtept lat="56.14706" lon="10.1853">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

@@ -31,7 +31,6 @@ token.json
 # OSMnx HTTP cache (regenerated on demand)
 cache/
 
-# Local-only material (third-party GPX downloads, cloned reference repo, local agent settings)
-Inspiration/
+# Local-only material (cloned reference repo, local agent settings)
 superpowers_review/
 .claude/settings.local.json
